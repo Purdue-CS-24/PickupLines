@@ -4,3 +4,4 @@ A congregation of pickup lines from Computer Science majors in Purdue's Class of
 -----
 
 - Are you CSPickupLines? Because I'm too intimidated to commit to you.
+- Are you recursive? Because I’ll do you over and over again.
