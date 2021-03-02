@@ -10,3 +10,4 @@ A congregation of pickup lines from Computer Science majors in Purdue's Class of
 - We should be an infinite while loop so we never have to break.
 - Are you the main branch? Cause I wanna push a child into you.
 - I just row reduced a matrix and all I can see is a dependency between you and me.
+- ssh me@yourDMs
