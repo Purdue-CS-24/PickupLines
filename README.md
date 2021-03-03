@@ -11,3 +11,7 @@ A congregation of pickup lines from Computer Science majors in Purdue's Class of
 - Are you the main branch? Cause I wanna push a child into you.
 - I just row reduced a matrix and all I can see is a dependency between you and me.
 - ssh me@yourDMs
+- Are you a functor? Cause I wanna apply myself to ur interior.
+- Are you a function? Cause I wanna bind with IO to make you impure.
+- Are you a Mutex? Cause I wanna lock you and access your contents.
+- Are you JavaScript? Cause ur fucking stupid.
