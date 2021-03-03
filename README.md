@@ -14,3 +14,7 @@ A congregation of pickup lines from Computer Science majors in Purdue's Class of
 - I think I'm a malloc function, cuz I'm always ready to make memories with you
 - Are you vim? Cuz I can't pull out of you
 - Are you an iteration? Because I want to be in the next step of your life
+- Are you a functor? Cause I wanna apply myself to ur interior.
+- Are you a function? Cause I wanna bind with IO to make you impure.
+- Are you a Mutex? Cause I wanna lock you and access your contents.
+- Are you JavaScript? Cause ur fucking stupid.
