@@ -18,3 +18,4 @@ A congregation of pickup lines from Computer Science majors in Purdue's Class of
 - Are you a function? Cause I wanna bind with IO to make you impure.
 - Are you a Mutex? Cause I wanna lock you and access your contents.
 - Are you JavaScript? Cause ur fucking stupid.
+- Are you an exception? Because I want to catch you
