@@ -20,3 +20,5 @@ A congregation of pickup lines from Computer Science majors in Purdue's Class of
 - Are you JavaScript? Cause ur fucking stupid.
 - Are you an exception? Because I want to catch you
 - If I stuck your beauty into an integer it would definetly overflow. We would need like, a big integer for that.
+- Are you a Mutex? Cause I want exclusive access to you.
+- Are you an embedded system? Cause I wanna use you with #[no_std]
