@@ -25,3 +25,6 @@ A congregation of pickup lines from Computer Science majors in Purdue's Class of
 - Hey baby, there's an OverflowException in my pants, care to handle it for me?
 - Baby, you make my floppy disk turn into a hard drive
 - Baby, you're the only accept state of my finite automaton
+- So for this English paper, I need to write about the finer things in life. Mind if I interview you?
+- I wish I was cross eyed, so that I can see you twice
+- Have you had a raisin before? Yea? Okay, what about a date?
