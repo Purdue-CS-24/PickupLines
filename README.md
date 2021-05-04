@@ -22,3 +22,6 @@ A congregation of pickup lines from Computer Science majors in Purdue's Class of
 - If I stuck your beauty into an integer it would definetly overflow. We would need like, a big integer for that.
 - Are you a Mutex? Cause I want exclusive access to you.
 - Do you require a standard library? Cause I wanna use you with #[no_std]
+- Hey baby, there's an OverflowException in my pants, care to handle it for me?
+- Baby, you make my floppy disk turn into a hard drive
+- Baby, you're the only accept state of my finite automaton
