@@ -32,3 +32,4 @@ A congregation of pickup lines from Computer Science majors in Purdue's Class of
 - It would be dishonest to say I only want to be academic with you
 - Baby if you were github, I would commit to pushing my branch into you every day
 - Are you a write-back cache? Because you're a bit dirty
+- Hey, are you a recursive algorithm? Because I wanna do you all night until you stack overflow.
