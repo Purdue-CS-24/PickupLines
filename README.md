@@ -33,4 +33,5 @@ A congregation of pickup lines from Computer Science majors in Purdue's Class of
 - Baby if you were github, I would commit to pushing my branch into you every day
 - Are you a write-back cache? Because you're a bit dirty
 - 6 is the first big number, 7 is smaller than 6, 8 is the same as 7, 10 is pretty big
-- Are you a Java program? Because I wanna be your static and final
+- Are you a Java variable? Because I wanna be your static and final
+- Are you a C code? Because I want to c*m-pile you
